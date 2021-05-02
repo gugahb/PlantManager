@@ -1,5 +1,0 @@
-aula1 = check;
-aula2 = check;
-aula3 = 1:19m 
-aula4 = 
-aula5 = 
