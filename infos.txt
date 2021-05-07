@@ -1,7 +1,7 @@
 aula1 = check;
 aula2 = check;
 aula3 = check;
-aula4 = 
+aula4 = 45:55;
 aula5 = 
 
 #comandos
